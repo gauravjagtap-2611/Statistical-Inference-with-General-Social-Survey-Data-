@@ -33,6 +33,8 @@ Others have roughly equal political party affiliation.
 We have enough evidence to say that there is association between race of population and party affiliation.
 
 
+
+
 #  Research question 2:
 ## Is there income disparity among different races in US society?
 
@@ -62,7 +64,7 @@ Here we can see that, White & Other races have similar kind of income distributi
 </div>
 
 
-## Conclusion:
+## Conclusion using ANOVA:
  WE carry out One Way ANOVA to come this conclusion, for detailed analysis resfer to attached R pdf file.\
  \
 The data provide convincing evidence that at least one pair of population means are different from each other. There is a difference between the average family income (is US dollars) between at least one pair of race.
